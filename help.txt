@@ -1,7 +1,7 @@
 How to use: 
  0- Write: node . =>  read help file.
  1- Write: node . help  =>  read help file. 
- 2- Write: node . list  =>   read do file.
+ 2- Write: node . list  =>   read ToDo file.
  3- Write: node . add   =>  add an do item.
  4- Write: node . remove 1 or 2 =>  delete an item.
  5- Write: node . reset => remove all do items from the list.
